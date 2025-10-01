@@ -1,0 +1,17 @@
+fastapi
+pandas
+openpyxl
+numpy
+uvicorn
+python-multipart
+pyshp
+shapely
+ollama
+bleach
+
+# Зависимости для коннекторов
+SQLAlchemy
+GeoAlchemy2
+psycopg2-binary
+Authlib
+cryptography
