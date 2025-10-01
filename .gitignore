@@ -1,0 +1,21 @@
+# Data files
+/data/
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
+
+# Node dependencies
+/node_modules/
+/ui/node_modules/
